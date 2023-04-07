@@ -1,4 +1,4 @@
- # I made an initial trial project in SSRS.
+ # I experimented with Visual Studio 2022 in the report services project.
 
 
 
